@@ -6,14 +6,14 @@
 body {
   font-family: Arial;
   padding: 10px;
-  background: #f1f1f1;
+  background: aqua;
 }
 
 /* Header/Blog Title */
 .header {
   padding: 30px;
   text-align: center;
-  background: white;
+  background: red;
 }
 
 .header h1 {
